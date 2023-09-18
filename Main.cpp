@@ -88,4 +88,5 @@ int main(void)
     std::cout << "Last Encrypted String: " << LastStr << std::endl;
 
     std::cin.get();
+    return 0;
 }
